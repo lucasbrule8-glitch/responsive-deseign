@@ -13,3 +13,10 @@ body {
         background-image: url(../img/fond-paysage.jpg);
     }
 }
+
+@media screen and (min-width: 1024px) {
+    header{
+        height: 50vh;
+        background-position: top;
+    }
+}
